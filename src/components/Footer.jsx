@@ -1,6 +1,5 @@
 import React from 'react'
-import { Link } from "react-scroll";
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub} from "react-icons/fa";
 import { HiOutlineAcademicCap } from "react-icons/hi";
 
 const Footer = () => {
