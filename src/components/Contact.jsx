@@ -18,7 +18,9 @@ const Contact = () => {
 
         <div className="flex justify-center flex-col items-center gap-8 px-12 sm:pr-4">
         <form
-            action="https://getform.io/f/61c99527-2b15-42cf-9b55-ad37d2f7daa6"
+            action="https://formkeep.com/f/9a8824199984"
+            accept-charset="UTF-8"
+            enctype="multipart/form-data"
             method="POST"
             className=" flex flex-col w-full md:w-1/2"
           >
