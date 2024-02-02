@@ -13,7 +13,7 @@ const Contact = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Contact
           </p>
-          <p className="py-4 md:py-4">These are the technologies I've worked with</p>
+          <p className="py-4 md:py-4">Submit the form below to get in touch with me</p>
         </div>
 
         <div className="flex justify-center flex-col items-center gap-8 px-12 sm:pr-4">
