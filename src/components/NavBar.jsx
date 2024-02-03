@@ -29,7 +29,8 @@ const NavBar = () => {
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-20 bg-gray-900 bg-opacity-85 px-8 text-white fixed">
+    <div className="flex justify-between items-center w-full h-20 backdrop-blur-sm backdrop-brightness-150
+     bg-gray-900 bg-opacity-85 px-8 text-white fixed">
       <div>
         <Link to='home' smooth duration={500} className="text-2xl tracking-widest cursor-pointer hover:scale-105 hover:text-cyan-500 font-bold font-logo ml-2">Pushkar<br />Sharma</Link>
       </div>
